@@ -2,7 +2,7 @@
   "name": "node-template",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "author": "MDReal <mdrealiyev00@gmail.com>",
   "type": "module",
   "main": "build/node-template.cjs.js",
